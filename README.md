@@ -16,7 +16,7 @@ This project provides a lightweight local database solution for storing JSON fil
 
 **Getting Started:**
 
-1. Clone the repository: `[git clone https://github.com/your-username/local-json-cml-db.git](https://github.com/AarowanDusk/sDB.git)` (replace `your-username` with your GitHub username)
+1. Clone the repository: `[git clone https://github.com/your-username/local-json-cml-db.git](https://github.com/AarowanDusk/sDB.git)` 
 2. Follow the setup instructions included in the README file.
 
 **Target Audience:**
